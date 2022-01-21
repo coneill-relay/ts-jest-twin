@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`React Testing Library renders correctly 1`] = `
+<DocumentFragment>
+  <button
+    class="sc-bdvvtL"
+  />
+</DocumentFragment>
+`;

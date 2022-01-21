@@ -1,0 +1,20 @@
+{
+  "presets": [
+    [
+      "@babel/env", 
+      {
+        "targets": {
+          "node": "current"
+        }
+      }
+    ], 
+    
+      "@babel/preset-react",
+      
+    
+    "@babel/preset-typescript"
+  ],
+  // "plugins": ["macros", "babel-plugin-styled-components","@babel/plugin-transform-react-jsx"]
+  "plugins": ["macros" ]
+
+}
